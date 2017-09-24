@@ -13,8 +13,6 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/cli": "1.4.3",
-    "typescript": "~2.3.3",
     "@angular/animations": "^4.2.4",
     "@angular/common": "^4.2.4",
     "@angular/compiler": "^4.2.4",
@@ -52,6 +50,7 @@
   },
   "engines": {
     "node": "6.11.1",
-    "npm": "3.10.9"
+    "npm": "3.10.9",
+    "@angular/cli": "1.4.3"
   }
 }
